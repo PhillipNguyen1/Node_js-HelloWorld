@@ -10,7 +10,7 @@ var assert = require("assert");
 describe("Server", () => {
   describe("helloWorld()", () => {
     it("Should print hello world", () => {
-      assert.equal(helloWorld(), "Hello World");
+      assert.equal(helloWorld(), "asdfasdfHello World");
     });
   });
 });
